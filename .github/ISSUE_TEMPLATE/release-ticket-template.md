@@ -1,6 +1,6 @@
 ---
 name: Release Ticket Template
-about: Release ticket tmp
+about: Release ticket for QA tracking
 title: Extension 5.20.4 Release ticket
 labels: ''
 assignees: ''
